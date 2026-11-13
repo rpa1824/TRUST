@@ -78,7 +78,7 @@ This repository provides the implementation of the TRUST framework for academic 
 
 ## Citation
 
-Citation information will be provided after publication of the associated research article.
+Mohandas, L., Pramanik, M., & Panigrahi, R. (2026). A Territory Resonance and Uncertainty-guided Stability Theory (TRUST) for accurate breast cancer detection. Journal of King Saud University. Computer and Information Sciences, 38(9), 953.
 
 ## License
 
